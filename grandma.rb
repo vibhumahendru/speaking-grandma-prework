@@ -2,7 +2,7 @@
 def speak_to_grandma (hi)
   if hi == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
-
+end
 if hi == hi.upcae
 return "NO, NOT SINCE 1938!"
 elsif hi != hi.upcase
