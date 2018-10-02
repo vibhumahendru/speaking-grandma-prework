@@ -5,7 +5,7 @@ def speak_to_grandma (hi)
 end
 if hi == hi.upcae
 return "NO, NOT SINCE 1938!"
-elsif hi != hi.upcase
+else 
 return "HUH?! SPEAK UP, SONNY!"
 
 end
