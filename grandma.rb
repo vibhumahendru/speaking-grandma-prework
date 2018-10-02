@@ -2,10 +2,10 @@
 def speak_to_grandma (hi)
   if hi == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
-end
+
 elsif hi != hi.upcase
 return "HUH?! SPEAK UP, SONNY!"
-
+end
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
